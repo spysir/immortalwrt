@@ -8,3 +8,4 @@ src-git ssrplus https://github.com/spysir/helloworld
 src-git lienol https://github.com/spysir/openwrt-package-lienol-old
 src-git zhuti https://github.com/spysir/openwrt-themes
 src-git autotimeset https://github.com/spysir/luci-app-autotimeset.git
+#src-git kiddin9 https://github.com/spysir/openwrt-packages
