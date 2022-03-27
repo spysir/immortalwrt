@@ -2,3 +2,9 @@ src-git packages https://github.com/immortalwrt/packages.git;openwrt-21.02
 src-git luci https://github.com/immortalwrt/luci.git;openwrt-21.02
 src-git routing https://github.com/openwrt/routing.git;openwrt-21.02
 src-git telephony https://github.com/openwrt/telephony.git;openwrt-21.02
+
+src-git passwall https://github.com/spysir/openwrt-passwall
+src-git ssrplus https://github.com/spysir/helloworld
+src-git lienol https://github.com/spysir/openwrt-package-lienol-old
+src-git zhuti https://github.com/spysir/openwrt-themes
+src-git autotimeset https://github.com/spysir/luci-app-autotimeset.git
