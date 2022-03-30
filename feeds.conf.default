@@ -10,3 +10,4 @@ src-git zhuti https://github.com/spysir/openwrt-themes
 src-git autotimeset https://github.com/spysir/luci-app-autotimeset.git
 #src-git kiddin9 https://github.com/spysir/openwrt-packages
 #src-git kenzok8 https://github.com/kenzok8/small-package
+#src-git luci https://github.com/spysir/immortalwrt-luci.git;openwrt-21.02
